@@ -1,0 +1,2 @@
+fastapi # Underneath uses Starlette and Pydantic
+uvicorn #ASGI server
